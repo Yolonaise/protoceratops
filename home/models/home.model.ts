@@ -3,6 +3,5 @@ export interface IHome {
     $oid: string;
   };
   name: string;
-  floors: number;
-  rooms: string[];
+  floors: string[];
 }
